@@ -8,6 +8,14 @@ export default function HoverOverlay() {
   const PADDING = 4;
 
   useEffect(() => {
+    // Disable completely on touch devices and mobile screens
+    const isTouchOrMobile = () =>
+      window.innerWidth <= 860 ||
+      window.matchMedia('(hover: none)').matches ||
+      window.matchMedia('(pointer: coarse)').matches;
+
+    if (isTouchOrMobile()) return;
+
     function positionOverlay(el) {
       if (!el) return;
       const rect = el.getBoundingClientRect();

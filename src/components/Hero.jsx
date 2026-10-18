@@ -21,9 +21,10 @@ export default function Hero({ data }) {
                 id="btn-email"
                 className="hover"
                 onClick={() => (window.location.href = `mailto:${person.email}`)}
+                title={`Email ${person.email}`}
               >
                 <img id="i-star" src="/asset-suite/icon-star.svg" alt="*" />
-                {person.email}
+                <span className="btn-email-text">{person.email}</span>
               </button>
 
               <div className="social-links">

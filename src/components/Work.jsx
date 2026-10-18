@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 
 export default function Work({ data }) {
   const [activeFolder, setActiveFolder] = useState('all');
@@ -7,6 +7,9 @@ export default function Work({ data }) {
   const [searchQuery, setSearchQuery] = useState('');
   // Show remaining projects in batches of 12 (divisible by 3 columns so rows are always complete)
   const [visibleRemaining, setVisibleRemaining] = useState(12);
+
+  const touchStartX = useRef(null);
+  const touchEndX = useRef(null);
 
   const projects = data?.projects || [];
 
@@ -181,7 +184,7 @@ export default function Work({ data }) {
                       className="behance-direct-link hover"
                       title="View on Behance"
                     >
-                      <i className="fa-brands fa-behance"></i> Behance ↗
+                      <i className="fa-brands fa-behance"></i> <span className="behance-text">Behance </span><span>↗</span>
                     </a>
                   </div>
                   <h4 className="hover" onClick={() => handleOpenProject(project)}>
@@ -203,7 +206,7 @@ export default function Work({ data }) {
           </div>
         )}
 
-        {/* 3-Column Remaining Works Grid */}
+        {/* Remaining Works Grid */}
         {remainingProjects.length > 0 && (
           <div className="row-3-cols">
             {remainingProjects.map((project) => (
@@ -243,7 +246,7 @@ export default function Work({ data }) {
                       className="behance-direct-link hover"
                       title="View on Behance"
                     >
-                      <i className="fa-brands fa-behance"></i> ↗
+                      <i className="fa-brands fa-behance"></i> <span className="behance-text">Behance </span><span>↗</span>
                     </a>
                   </div>
                   <h4 className="hover" onClick={() => handleOpenProject(project)}>
@@ -326,6 +329,30 @@ export default function Work({ data }) {
           `Hi Sabith! I saw your "${selectedProject.title}" project on your portfolio and would like to discuss working together.`
         );
 
+        const handleTouchStart = (e) => {
+          touchStartX.current = e.targetTouches[0].clientX;
+          touchEndX.current = e.targetTouches[0].clientX;
+        };
+
+        const handleTouchMove = (e) => {
+          touchEndX.current = e.targetTouches[0].clientX;
+        };
+
+        const handleTouchEnd = () => {
+          if (touchStartX.current === null || touchEndX.current === null) return;
+          const distance = touchStartX.current - touchEndX.current;
+          const minSwipeDistance = 40;
+          if (distance > minSwipeDistance && slides.length > 1) {
+            // Swiped Left -> Next Slide
+            setActiveSlide((prev) => (prev + 1) % slides.length);
+          } else if (distance < -minSwipeDistance && slides.length > 1) {
+            // Swiped Right -> Prev Slide
+            setActiveSlide((prev) => (prev - 1 + slides.length) % slides.length);
+          }
+          touchStartX.current = null;
+          touchEndX.current = null;
+        };
+
         return (
           <div className="modal-backdrop" onClick={() => setSelectedProject(null)}>
             <div className="modal-card" onClick={(e) => e.stopPropagation()}>
@@ -341,7 +368,12 @@ export default function Work({ data }) {
               <div className="modal-grid">
                 {/* Left Column: Multi-Image Carousel & Thumbnail Strip */}
                 <div className="modal-media-col">
-                  <div className="modal-carousel-stage">
+                  <div
+                    className="modal-carousel-stage"
+                    onTouchStart={handleTouchStart}
+                    onTouchMove={handleTouchMove}
+                    onTouchEnd={handleTouchEnd}
+                  >
                     <img
                       key={currentSlideImg}
                       src={currentSlideImg}

@@ -9,6 +9,7 @@ export default function Header() {
     let ticking = false;
 
     const handleScroll = () => {
+      if (mobileMenuOpen) return;
       if (!ticking) {
         window.requestAnimationFrame(() => {
           const currentScrollY = window.scrollY;
@@ -39,7 +40,18 @@ export default function Header() {
       window.removeEventListener('scroll', handleScroll);
       window.removeEventListener('resize', handleResize);
     };
-  }, []);
+  }, [mobileMenuOpen]);
+
+  useEffect(() => {
+    if (mobileMenuOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+    return () => {
+      document.body.style.overflow = '';
+    };
+  }, [mobileMenuOpen]);
 
   const closeMobile = () => setMobileMenuOpen(false);
 
