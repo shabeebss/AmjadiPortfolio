@@ -1,0 +1,2019 @@
+{
+  "person": {
+    "name": "Muhammed Sabith",
+    "behance_username": "sabithamjadi",
+    "behance_url": "https://www.behance.net/sabithamjadi",
+    "titles": [
+      "Graphic Designer",
+      "Creative Head",
+      "Visual Identity Specialist"
+    ],
+    "location": "Mannarkkad, India",
+    "phone": "+91 9656161319",
+    "email": "kmspallikkunnu@gmail.com",
+    "whatsapp": "+919656161319",
+    "stats": {
+      "project_views": "2,060+",
+      "appreciations": "55+",
+      "followers": "28",
+      "experience_years": "5+ Years"
+    }
+  },
+  "about": "Hello! I'm Muhammed Sabith (Sabith Amjadi), a passionate Graphic Designer & Creative Head from India with professional experience in Oman, Sharjah, Kolkata, and Imtibish Corporate. I specialize in creating clean, compelling, and modern visual designs that communicate clearly and inspire action. I focus on branding, social media design, visual identity, publication layout, motion graphics, and luxury packaging. My goal is to craft impactful visual experiences that help brands elevate their presence and connect with their audience effectively.",
+  "hero_quote": "Reading for the details, doodling in the margins. Designing with intent, crafting identity in every detail.",
+  "services": [
+    {
+      "number": "01 / BRAND IDENTITY",
+      "title": "Branding & Visual Systems",
+      "description": "Crafting timeless logos, comprehensive brand guidelines, color harmony systems, and complete corporate stationery that give brands an unmistakable presence."
+    },
+    {
+      "number": "02 / PUBLICATION & PRINT",
+      "title": "Editorial & Packaging Design",
+      "description": "Designing multi-fold corporate brochures, student handbooks, broadsheet newspaper layouts, and luxury dieline packaging boxes with intricate detailing."
+    },
+    {
+      "number": "03 / MARKETING & MOTION",
+      "title": "Advertising & Social Campaigns",
+      "description": "Creating viral social media creatives, high-impact conference posters, motion reels, promotional videos, and targeted marketing collateral."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Commerce (B.Com)",
+      "institution": "University of Calicut",
+      "specialization": "Design & Business Strategy"
+    }
+  ],
+  "skills": [
+    "Adobe Illustrator",
+    "Adobe Photoshop",
+    "Adobe InDesign",
+    "Adobe Premiere Pro",
+    "After Effects",
+    "Figma",
+    "Brand Identity",
+    "Publication Layout",
+    "Packaging Design",
+    "Social Media Creatives",
+    "Arabic & Modern Typography",
+    "Event Stage Collateral"
+  ],
+  "work_experience": [
+    {
+      "role": "Creative Head",
+      "company": "Kolkata Integrated Brand Hub",
+      "period": "2023 – Present",
+      "description": "Leading creative direction, holistic brand identity overhauls, high-profile convocation graphics, multi-channel advertising campaigns, and institutional design strategy."
+    },
+    {
+      "role": "Graphic Designer",
+      "company": "Imtibish LTT Corporate",
+      "period": "Corporate Tenure",
+      "description": "Executed corporate identities, brochures, investor presentations, and multi-market marketing collaterals with strict brand guideline fidelity."
+    },
+    {
+      "role": "Graphic Designer",
+      "company": "Abjar Advertising & Brandmark",
+      "period": "Oman & Sharjah GCC Experience",
+      "description": "Produced commercial advertisements, luxury packaging mockups, social media campaigns, and large-format print layouts for GCC business clients."
+    },
+    {
+      "role": "Creative Designer",
+      "company": "Tigris Valley",
+      "period": "Healthcare & Wellness",
+      "description": "Designed health camp campaigns, clinic promotion posters, educational prospectuses, and community awareness collateral."
+    },
+    {
+      "role": "Independent Brand Consultant",
+      "company": "IBAS & Freelance Portfolio",
+      "period": "2018 – Present",
+      "description": "Partnered with over 30+ regional and international brands for custom logotypes, editorial handbooks, and creative packaging."
+    }
+  ],
+  "projects": [
+    {
+      "id": "free-checkup-clinic",
+      "title": "Mind World Free Examination Campaign",
+      "category": "posters",
+      "categoryLabel": "Health Campaign Poster",
+      "client": "Parrot Mind World",
+      "year": "2024",
+      "image": "/behance/01-clinic-camp.jpg",
+      "tools": [
+        "Adobe Photoshop",
+        "Illustrator"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/246289899/Poster",
+      "description": "Regional campaign banner promoting free child diagnostic checkups with clear multi-specialist credential cards and direct call-to-actions.",
+      "featured": false,
+      "tag": "Marketing Ad",
+      "images": [
+        "/behance/01-clinic-camp.jpg"
+      ]
+    },
+    {
+      "id": "child-psychology-camp",
+      "title": "Child Behaviour & Psychology Camp",
+      "category": "posters",
+      "categoryLabel": "Healthcare & Clinic Campaign",
+      "client": "Mind World Counselling Centre",
+      "year": "2024",
+      "image": "/behance/02-child-psychology.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/246289749/Poster",
+      "description": "Playful yet reassuring psychological training camp promotional poster with warm illustrated camping visuals and systematic program breakdown.",
+      "featured": false,
+      "tag": "Social Campaign",
+      "images": [
+        "/behance/02-child-psychology.jpg"
+      ]
+    },
+    {
+      "id": "mualim-conference",
+      "title": "5th Edition Mualim Annual Conference",
+      "category": "posters",
+      "categoryLabel": "Event Poster",
+      "client": "Bishara Conference",
+      "year": "2026",
+      "image": "/behance/03-islamic-conference.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/242970415/Event-Poster",
+      "description": "High-contrast event poster with deep violet-to-magenta gradients, arch framing, and clear event hierarchy for Sayyid Ibraheemul Khaleel Al Bukhari.",
+      "featured": true,
+      "tag": "Poster Art",
+      "images": [
+        "/behance/slides/mualim-conference/slide_1.jpg",
+        "/behance/slides/mualim-conference/slide_2.jpg",
+        "/behance/slides/mualim-conference/slide_3.jpg",
+        "/behance/slides/mualim-conference/slide_4.jpg"
+      ]
+    },
+    {
+      "id": "alhuda-brochure",
+      "title": "AL-HUDA Corporate Tri-Fold Brochure",
+      "category": "packaging",
+      "categoryLabel": "Publication Design",
+      "client": "AL-HUDA Institution",
+      "year": "2024",
+      "image": "/behance/04-alhuda-brochure.jpg",
+      "tools": [
+        "Adobe InDesign",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/224993375/AL-HUDA-Broucher",
+      "description": "Sophisticated tri-fold corporate brochure with crisp grid layouts, soft sage color palette, and institutional curriculum storytelling.",
+      "featured": true,
+      "tag": "Editorial Layout",
+      "images": [
+        "/behance/slides/alhuda-brochure/slide_1.jpg",
+        "/behance/slides/alhuda-brochure/slide_2.jpg",
+        "/behance/slides/alhuda-brochure/slide_3.jpg",
+        "/behance/slides/alhuda-brochure/slide_4.jpg"
+      ]
+    },
+    {
+      "id": "exim-logo",
+      "title": "EXIM Global Corporate Identity",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "EXIM Global",
+      "year": "2024",
+      "image": "/behance/15-exim-logo.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/224993159/Exim-Logo",
+      "description": "A forward-looking corporate brand identity created with dynamic arrow geometry symbolizing international trade and swift digital logistics.",
+      "featured": true,
+      "tag": "Featured Identity",
+      "images": [
+        "/behance/slides/exim-logo/slide_1.jpg",
+        "/behance/slides/exim-logo/slide_2.jpg",
+        "/behance/slides/exim-logo/slide_3.jpg",
+        "/behance/slides/exim-logo/slide_4.jpg",
+        "/behance/slides/exim-logo/slide_5.jpg",
+        "/behance/slides/exim-logo/slide_6.jpg",
+        "/behance/slides/exim-logo/slide_7.jpg",
+        "/behance/slides/exim-logo/slide_8.jpg",
+        "/behance/slides/exim-logo/slide_9.jpg",
+        "/behance/slides/exim-logo/slide_10.jpg",
+        "/behance/slides/exim-logo/slide_11.jpg",
+        "/behance/slides/exim-logo/slide_12.jpg",
+        "/behance/slides/exim-logo/slide_13.jpg",
+        "/behance/slides/exim-logo/slide_14.jpg",
+        "/behance/slides/exim-logo/slide_15.jpg",
+        "/behance/slides/exim-logo/slide_16.jpg",
+        "/behance/slides/exim-logo/slide_17.jpg",
+        "/behance/slides/exim-logo/slide_18.jpg"
+      ]
+    },
+    {
+      "id": "thaiba-school-logo",
+      "title": "Thaiba Public School Presentation",
+      "category": "branding",
+      "categoryLabel": "Institutional Identity",
+      "client": "Thaiba Public School",
+      "year": "2024",
+      "image": "/behance/16-thaiba-school-presentation.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/224992369/Thaiba-Public-School-Logo",
+      "description": "Comprehensive school brand presentation 'Embracing Excellence, Reflecting Legacy' featuring facade architectural signage and stationery system.",
+      "featured": true,
+      "tag": "Identity System",
+      "images": [
+        "/behance/slides/thaiba-school-logo/slide_1.jpg",
+        "/behance/slides/thaiba-school-logo/slide_2.jpg",
+        "/behance/slides/thaiba-school-logo/slide_3.jpg",
+        "/behance/slides/thaiba-school-logo/slide_4.jpg",
+        "/behance/slides/thaiba-school-logo/slide_5.jpg",
+        "/behance/slides/thaiba-school-logo/slide_6.jpg",
+        "/behance/slides/thaiba-school-logo/slide_7.jpg",
+        "/behance/slides/thaiba-school-logo/slide_8.jpg",
+        "/behance/slides/thaiba-school-logo/slide_9.jpg",
+        "/behance/slides/thaiba-school-logo/slide_10.jpg",
+        "/behance/slides/thaiba-school-logo/slide_11.jpg",
+        "/behance/slides/thaiba-school-logo/slide_12.jpg",
+        "/behance/slides/thaiba-school-logo/slide_13.jpg",
+        "/behance/slides/thaiba-school-logo/slide_14.jpg",
+        "/behance/slides/thaiba-school-logo/slide_15.jpg",
+        "/behance/slides/thaiba-school-logo/slide_16.jpg",
+        "/behance/slides/thaiba-school-logo/slide_17.jpg",
+        "/behance/slides/thaiba-school-logo/slide_18.jpg",
+        "/behance/slides/thaiba-school-logo/slide_19.jpg",
+        "/behance/slides/thaiba-school-logo/slide_20.jpg",
+        "/behance/slides/thaiba-school-logo/slide_21.jpg",
+        "/behance/slides/thaiba-school-logo/slide_22.jpg",
+        "/behance/slides/thaiba-school-logo/slide_23.jpg",
+        "/behance/slides/thaiba-school-logo/slide_24.jpg",
+        "/behance/slides/thaiba-school-logo/slide_25.jpg",
+        "/behance/slides/thaiba-school-logo/slide_26.jpg",
+        "/behance/slides/thaiba-school-logo/slide_27.jpg",
+        "/behance/slides/thaiba-school-logo/slide_28.jpg",
+        "/behance/slides/thaiba-school-logo/slide_29.jpg"
+      ]
+    },
+    {
+      "id": "student-handbook",
+      "title": "Student's Hand Book 2025–26",
+      "category": "packaging",
+      "categoryLabel": "Book Cover & Editorial",
+      "client": "Thaiba Academic Press",
+      "year": "2025",
+      "image": "/behance/05-student-handbook.jpg",
+      "tools": [
+        "Adobe InDesign",
+        "Illustrator"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/224037593/Hand-Book",
+      "description": "Minimalist school diary and student handbook cover design utilizing tactile graph textures and bold mustard accent puzzle blocks.",
+      "featured": false,
+      "tag": "Publication",
+      "images": [
+        "/behance/slides/student-handbook/slide_1.jpg",
+        "/behance/slides/student-handbook/slide_2.jpg"
+      ]
+    },
+    {
+      "id": "thaiba-whatsapp",
+      "title": "Bengal Markaz Thaiba Garden Broadsheet",
+      "category": "packaging",
+      "categoryLabel": "Print & Broadsheet",
+      "client": "Thaiba Heritage",
+      "year": "2024",
+      "image": "/behance/13-thaiba-whatsapp-social.jpg",
+      "tools": [
+        "Adobe InDesign",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/215816999/Newspaper-Add",
+      "description": "Commemorative 10th anniversary full-page broadsheet newspaper advertisement showcasing the campus facilities and leadership chronicles.",
+      "featured": false,
+      "tag": "Broadsheet Print",
+      "images": [
+        "/behance/slides/thaiba-whatsapp/slide_1.jpg",
+        "/behance/slides/thaiba-whatsapp/slide_2.jpg"
+      ]
+    },
+    {
+      "id": "bengal-convocation",
+      "title": "Bengal Markaz 10th Convocation Poster",
+      "category": "posters",
+      "categoryLabel": "Event Poster",
+      "client": "Bengal Markaz Eastern India",
+      "year": "2024",
+      "image": "/behance/07-convocation-poster.jpg",
+      "tools": [
+        "Adobe Photoshop",
+        "Illustrator"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/215816953/Poster-Design-for-Convocation",
+      "description": "Majestic commemorative convocation poster featuring Guest of Honor Al-Sheikh Al-Sayyid Afeefuddin Al-Jailani with rich sepia atmospheric depth.",
+      "featured": true,
+      "tag": "Grand Event",
+      "images": [
+        "/behance/slides/bengal-convocation/slide_1.jpg",
+        "/behance/slides/bengal-convocation/slide_2.jpg",
+        "/behance/slides/bengal-convocation/slide_3.jpg",
+        "/behance/slides/bengal-convocation/slide_4.jpg",
+        "/behance/slides/bengal-convocation/slide_5.jpg"
+      ]
+    },
+    {
+      "id": "subuki-perfume",
+      "title": "SUBUKI Pure Perfume Packaging Box",
+      "category": "packaging",
+      "categoryLabel": "Luxury Packaging",
+      "client": "SUBUKI Fragrances",
+      "year": "2024",
+      "image": "/behance/08-subuki-perfume-box.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/187375289/Perfume-box-Design",
+      "description": "Bespoke perfume dieline packaging box design with subtle botanical jasmine blossoms, gold foil crest emblem, and luxury ingredient hierarchy.",
+      "featured": true,
+      "tag": "Packaging & Print",
+      "images": [
+        "/behance/slides/subuki-perfume/slide_1.jpg",
+        "/behance/slides/subuki-perfume/slide_2.jpg",
+        "/behance/slides/subuki-perfume/slide_3.jpg",
+        "/behance/slides/subuki-perfume/slide_4.jpg"
+      ]
+    },
+    {
+      "id": "proj-187374717",
+      "title": "Subuki Perfume Logo",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Subuki Client Project",
+      "year": "2023–2024",
+      "image": "/behance/covers/187374717.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/187374717/SUBUKI-PERFUME-LOGO",
+      "description": "Professional brand identity executed for Subuki Perfume Logo, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/slides/proj-187374717/slide_1.jpg",
+        "/behance/slides/proj-187374717/slide_2.jpg",
+        "/behance/slides/proj-187374717/slide_3.jpg"
+      ]
+    },
+    {
+      "id": "proj-185929425",
+      "title": "Branding Advertisement Video",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Branding Client Project",
+      "year": "2023–2024",
+      "image": "/behance/covers/185929425.jpg",
+      "tools": [
+        "After Effects",
+        "Premiere Pro"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/185929425/Branding-Advertisement-Video",
+      "description": "Professional brand identity executed for Branding Advertisement Video, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/covers/185929425.jpg"
+      ]
+    },
+    {
+      "id": "proj-185387863",
+      "title": "News Paper Ads",
+      "category": "social",
+      "categoryLabel": "Social Media & Motion",
+      "client": "News Client Project",
+      "year": "2023–2024",
+      "image": "/behance/covers/185387863.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/185387863/News-paper-ads",
+      "description": "Professional social media & motion executed for News Paper Ads, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Social",
+      "images": [
+        "/behance/slides/proj-185387863/slide_1.jpg",
+        "/behance/slides/proj-185387863/slide_2.jpg",
+        "/behance/slides/proj-185387863/slide_3.jpg"
+      ]
+    },
+    {
+      "id": "madin-college-logo",
+      "title": "Madin College of Pharmacy Identity",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Madin College of Pharmacy",
+      "year": "2024",
+      "image": "/behance/10-madin-college-logo.jpg",
+      "tools": [
+        "Adobe Illustrator"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/184170795/Logo-for-madin-college-of-Pharmacy",
+      "description": "Organic pharmaceutical identity featuring an interconnected leaf motif inside a circular crest, balancing medical science with botanical heritage.",
+      "featured": false,
+      "tag": "Emblem & Mark",
+      "images": [
+        "/behance/slides/madin-college-logo/slide_1.jpg",
+        "/behance/slides/madin-college-logo/slide_2.jpg"
+      ]
+    },
+    {
+      "id": "bengal-garden-print",
+      "title": "Bengal Markaz Garden Broadsheet Ad",
+      "category": "packaging",
+      "categoryLabel": "Print Media & Newspaper",
+      "client": "Bengal Markaz",
+      "year": "2024",
+      "image": "/behance/06-bengal-markaz-garden.jpg",
+      "tools": [
+        "Adobe InDesign",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/184170691/Poster",
+      "description": "Comprehensive newspaper editorial spread featuring infographic data metrics, architectural maps, and educational milestone chronicles.",
+      "featured": false,
+      "tag": "Broadsheet Print",
+      "images": [
+        "/behance/06-bengal-markaz-garden.jpg"
+      ]
+    },
+    {
+      "id": "newspaper-mockup-pharmacy",
+      "title": "B.PHARM Newsprint Feature & Ad",
+      "category": "packaging",
+      "categoryLabel": "Editorial Advertising",
+      "client": "Madin College of Pharmacy",
+      "year": "2024",
+      "image": "/behance/09-newspaper-mockup.jpg",
+      "tools": [
+        "Adobe Photoshop",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/183652635/Poster-Design",
+      "description": "Realistic newspaper mockup displaying institutional accreditation, hiring announcements, and pharmacy admissions notices.",
+      "featured": false,
+      "tag": "Editorial Mockup",
+      "images": [
+        "/behance/09-newspaper-mockup.jpg"
+      ]
+    },
+    {
+      "id": "jobfair-mind-school",
+      "title": "Jobfair 2023: EmpowerAbility Campaign",
+      "category": "posters",
+      "categoryLabel": "Social Cause Campaign",
+      "client": "Mind School Calicut",
+      "year": "2023",
+      "image": "/behance/11-jobfair-mindschool.jpg",
+      "tools": [
+        "Adobe Photoshop",
+        "Illustrator"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/180587025/Poster-Design",
+      "description": "Emotive red-and-white promotional campaign for special needs vocational training and corporate inclusive employment fair.",
+      "featured": false,
+      "tag": "Advocacy",
+      "images": [
+        "/behance/slides/jobfair-mind-school/slide_1.jpg",
+        "/behance/slides/jobfair-mind-school/slide_2.jpg"
+      ]
+    },
+    {
+      "id": "kids-school-mascot",
+      "title": "No. 01 Best Kid Mascot & Branding",
+      "category": "branding",
+      "categoryLabel": "Character & Education Branding",
+      "client": "Kids Pre-School Academy",
+      "year": "2023",
+      "image": "/behance/12-kids-school-no1.jpg",
+      "tools": [
+        "Adobe Illustrator"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/180586955/Logo-For-Kids-School",
+      "description": "Friendly smile curve and star mascot designed for student encouragement awards and early-childhood branding collaterals.",
+      "featured": false,
+      "tag": "Mascot & Icon",
+      "images": [
+        "/behance/slides/kids-school-mascot/slide_1.jpg",
+        "/behance/slides/kids-school-mascot/slide_2.jpg",
+        "/behance/slides/kids-school-mascot/slide_3.jpg",
+        "/behance/slides/kids-school-mascot/slide_4.jpg"
+      ]
+    },
+    {
+      "id": "proj-180586837",
+      "title": "Whatsapp Channel",
+      "category": "social",
+      "categoryLabel": "Social Media & Motion",
+      "client": "Whatsapp Client Project",
+      "year": "2023–2024",
+      "image": "/behance/covers/180586837.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/180586837/WhatsApp-Channel",
+      "description": "Professional social media & motion executed for Whatsapp Channel, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Social",
+      "images": [
+        "/behance/covers/180586837.jpg"
+      ]
+    },
+    {
+      "id": "proj-168813561",
+      "title": "Poster",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Poster Client Project",
+      "year": "2022",
+      "image": "/behance/covers/168813561.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/168813561/Poster",
+      "description": "Professional posters & campaigns executed for Poster, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/covers/168813561.jpg"
+      ]
+    },
+    {
+      "id": "proj-168813451",
+      "title": "Poster",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Poster Client Project",
+      "year": "2022",
+      "image": "/behance/covers/168813451.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/168813451/Poster",
+      "description": "Professional posters & campaigns executed for Poster, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/covers/168813451.jpg"
+      ]
+    },
+    {
+      "id": "eid-calligraphy",
+      "title": "GN Foundation Ramadan Food Relief",
+      "category": "posters",
+      "categoryLabel": "Social Cause Poster",
+      "client": "GN Foundation",
+      "year": "2024",
+      "image": "/behance/14-eid-mubarak-calligraphy.jpg",
+      "tools": [
+        "Adobe Photoshop",
+        "Illustrator"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/168813361/Poster-for-GN",
+      "description": "Impactful charity fundraising poster for Ramadan free porridge distribution network with dynamic Malayalam typography and clear donation hierarchy.",
+      "featured": false,
+      "tag": "Charity Campaign",
+      "images": [
+        "/behance/slides/eid-calligraphy/slide_1.jpg",
+        "/behance/slides/eid-calligraphy/slide_2.jpg",
+        "/behance/slides/eid-calligraphy/slide_3.jpg"
+      ]
+    },
+    {
+      "id": "proj-168813157",
+      "title": "Calligraphy",
+      "category": "social",
+      "categoryLabel": "Social Media & Motion",
+      "client": "Calligraphy Client Project",
+      "year": "2022",
+      "image": "/behance/covers/168813157.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/168813157/calligraphy",
+      "description": "Professional social media & motion executed for Calligraphy, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Social",
+      "images": [
+        "/behance/covers/168813157.jpg"
+      ]
+    },
+    {
+      "id": "proj-168813067",
+      "title": "Sys Patambi",
+      "category": "posters",
+      "categoryLabel": "Poster Design",
+      "client": "Sys Client Project",
+      "year": "2022",
+      "image": "/behance/covers/168813067.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/168813067/SYS-Patambi",
+      "description": "Professional poster design executed for Sys Patambi, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Poster",
+      "images": [
+        "/behance/slides/proj-168813067/slide_1.jpg",
+        "/behance/slides/proj-168813067/slide_2.jpg",
+        "/behance/slides/proj-168813067/slide_3.jpg",
+        "/behance/slides/proj-168813067/slide_4.jpg"
+      ]
+    },
+    {
+      "id": "proj-168812921",
+      "title": "Asa Poster",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Asa Client Project",
+      "year": "2022",
+      "image": "/behance/covers/168812921.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/168812921/ASA-Poster",
+      "description": "Professional posters & campaigns executed for Asa Poster, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/slides/proj-168812921/slide_1.jpg",
+        "/behance/slides/proj-168812921/slide_2.jpg",
+        "/behance/slides/proj-168812921/slide_3.jpg",
+        "/behance/slides/proj-168812921/slide_4.jpg",
+        "/behance/slides/proj-168812921/slide_5.jpg",
+        "/behance/slides/proj-168812921/slide_6.jpg",
+        "/behance/slides/proj-168812921/slide_7.jpg"
+      ]
+    },
+    {
+      "id": "proj-160633143",
+      "title": "Cascamed Logo",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Cascamed Client Project",
+      "year": "2022",
+      "image": "/behance/covers/160633143.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/160633143/CASCAMED-LOGO",
+      "description": "Professional brand identity executed for Cascamed Logo, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/slides/proj-160633143/slide_1.jpg",
+        "/behance/slides/proj-160633143/slide_2.jpg",
+        "/behance/slides/proj-160633143/slide_3.jpg",
+        "/behance/slides/proj-160633143/slide_4.jpg"
+      ]
+    },
+    {
+      "id": "proj-160192303",
+      "title": "Poster Design",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Poster Client Project",
+      "year": "2022",
+      "image": "/behance/covers/160192303.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/160192303/Poster-Design",
+      "description": "Professional posters & campaigns executed for Poster Design, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/covers/160192303.jpg"
+      ]
+    },
+    {
+      "id": "proj-160192181",
+      "title": "Poster Design",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Poster Client Project",
+      "year": "2022",
+      "image": "/behance/covers/160192181.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/160192181/Poster-Design",
+      "description": "Professional posters & campaigns executed for Poster Design, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/slides/proj-160192181/slide_1.jpg",
+        "/behance/slides/proj-160192181/slide_2.jpg",
+        "/behance/slides/proj-160192181/slide_3.jpg"
+      ]
+    },
+    {
+      "id": "proj-159665767",
+      "title": "Logo For Asas",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Logo Client Project",
+      "year": "2022",
+      "image": "/behance/covers/159665767.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/159665767/LOGO-FOR-ASAS",
+      "description": "Professional brand identity executed for Logo For Asas, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/slides/proj-159665767/slide_1.jpg",
+        "/behance/slides/proj-159665767/slide_2.jpg",
+        "/behance/slides/proj-159665767/slide_3.jpg",
+        "/behance/slides/proj-159665767/slide_4.jpg",
+        "/behance/slides/proj-159665767/slide_5.jpg"
+      ]
+    },
+    {
+      "id": "proj-159665517",
+      "title": "Poster",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Poster Client Project",
+      "year": "2022",
+      "image": "/behance/covers/159665517.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/159665517/POSTER",
+      "description": "Professional posters & campaigns executed for Poster, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/slides/proj-159665517/slide_1.jpg",
+        "/behance/slides/proj-159665517/slide_2.jpg",
+        "/behance/slides/proj-159665517/slide_3.jpg",
+        "/behance/slides/proj-159665517/slide_4.jpg"
+      ]
+    },
+    {
+      "id": "proj-159285015",
+      "title": "Logo Folio",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Logo Client Project",
+      "year": "2022",
+      "image": "/behance/covers/159285015.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/159285015/Logo-Folio",
+      "description": "Professional brand identity executed for Logo Folio, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/slides/proj-159285015/slide_1.jpg",
+        "/behance/slides/proj-159285015/slide_2.jpg",
+        "/behance/slides/proj-159285015/slide_3.jpg",
+        "/behance/slides/proj-159285015/slide_4.jpg",
+        "/behance/slides/proj-159285015/slide_5.jpg",
+        "/behance/slides/proj-159285015/slide_6.jpg"
+      ]
+    },
+    {
+      "id": "proj-159095263",
+      "title": "Binatech Logo",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Binatech Client Project",
+      "year": "2022",
+      "image": "/behance/covers/159095263.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/159095263/BINATECH-LOGO",
+      "description": "Professional brand identity executed for Binatech Logo, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/slides/proj-159095263/slide_1.jpg",
+        "/behance/slides/proj-159095263/slide_2.jpg",
+        "/behance/slides/proj-159095263/slide_3.jpg",
+        "/behance/slides/proj-159095263/slide_4.jpg"
+      ]
+    },
+    {
+      "id": "proj-158126647",
+      "title": "Brochure",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Brochure Client Project",
+      "year": "2022",
+      "image": "/behance/covers/158126647.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/158126647/Brochure",
+      "description": "Professional packaging & print executed for Brochure, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/slides/proj-158126647/slide_1.jpg",
+        "/behance/slides/proj-158126647/slide_2.jpg"
+      ]
+    },
+    {
+      "id": "proj-158051747",
+      "title": "Brochure",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Brochure Client Project",
+      "year": "2022",
+      "image": "/behance/covers/158051747.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/158051747/Brochure",
+      "description": "Professional packaging & print executed for Brochure, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/slides/proj-158051747/slide_1.jpg",
+        "/behance/slides/proj-158051747/slide_2.jpg",
+        "/behance/slides/proj-158051747/slide_3.jpg",
+        "/behance/slides/proj-158051747/slide_4.jpg"
+      ]
+    },
+    {
+      "id": "haflinger-logo",
+      "title": "HAFLINGER Equestrian Brand Identity",
+      "category": "branding",
+      "categoryLabel": "Luxury Brand Identity",
+      "client": "Haflinger Outfitters",
+      "year": "2022",
+      "tools": [
+        "Adobe Illustrator"
+      ],
+      "description": "Prestigious equestrian logo mark featuring a dynamic stallion profile inside an authoritative crest shield.",
+      "featured": false,
+      "tag": "Luxury Crest",
+      "image": "/behance/22-haflinger-logo.jpg",
+      "behanceUrl": "https://www.behance.net/gallery/157727491/LOGO-FOR-HAFLINGER",
+      "images": [
+        "/behance/slides/haflinger-logo/slide_1.jpg",
+        "/behance/slides/haflinger-logo/slide_2.jpg",
+        "/behance/slides/haflinger-logo/slide_3.jpg"
+      ]
+    },
+    {
+      "id": "proj-157727377",
+      "title": "Typography",
+      "category": "social",
+      "categoryLabel": "Social Media & Motion",
+      "client": "Typography Client Project",
+      "year": "2022",
+      "image": "/behance/covers/157727377.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/157727377/Typography",
+      "description": "Professional social media & motion executed for Typography, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Social",
+      "images": [
+        "/behance/covers/157727377.jpg"
+      ]
+    },
+    {
+      "id": "uae-national-day",
+      "title": "UAE 51st National Day Commemorative Poster",
+      "category": "posters",
+      "categoryLabel": "National Event Poster",
+      "client": "UAE National Day Celebration",
+      "year": "2022",
+      "tools": [
+        "Adobe Photoshop",
+        "Illustrator"
+      ],
+      "description": "Patriotic commemorative celebration poster honoring UAE 51st National Day with bold national falcon symbolism and Arabic typography.",
+      "featured": false,
+      "tag": "Commemorative",
+      "image": "/behance/17-uae-national-day.jpg",
+      "behanceUrl": "https://www.behance.net/gallery/157691415/UAE-NATIONAL-DAY-POSTER",
+      "images": [
+        "/behance/17-uae-national-day.jpg"
+      ]
+    },
+    {
+      "id": "proj-157629295",
+      "title": "Ics Academy Manchapatta",
+      "category": "social",
+      "categoryLabel": "Social Media & Motion",
+      "client": "Ics Client Project",
+      "year": "2022",
+      "image": "/behance/covers/157629295.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/157629295/ICS-ACCADEMY-MANCHAPATTA",
+      "description": "Professional social media & motion executed for Ics Academy Manchapatta, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Social",
+      "images": [
+        "/behance/covers/157629295.jpg"
+      ]
+    },
+    {
+      "id": "proj-157567007",
+      "title": "Osmo Logofolio",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Osmo Client Project",
+      "year": "2022",
+      "image": "/behance/covers/157567007.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/157567007/OSMO-LOGOFOLIO",
+      "description": "Professional brand identity executed for Osmo Logofolio, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/covers/157567007.jpg"
+      ]
+    },
+    {
+      "id": "malayalam-book-cover",
+      "title": "Contemporary Malayalam Book Cover Design",
+      "category": "packaging",
+      "categoryLabel": "Book Cover & Editorial",
+      "client": "Kerala Literary Publications",
+      "year": "2022",
+      "tools": [
+        "Adobe Photoshop",
+        "Illustrator"
+      ],
+      "description": "Poetic and melancholic book jacket design utilizing emotive tonal textures and evocative Malayalam title typography.",
+      "featured": false,
+      "tag": "Book Jacket",
+      "image": "/behance/23-malayalam-book-cover.jpg",
+      "behanceUrl": "https://www.behance.net/gallery/144532549/Malayalam-Book-Cover-Design",
+      "images": [
+        "/behance/23-malayalam-book-cover.jpg"
+      ]
+    },
+    {
+      "id": "proj-147306123",
+      "title": "Drawing",
+      "category": "drawings",
+      "categoryLabel": "Character & Art",
+      "client": "Drawing Client Project",
+      "year": "2022",
+      "image": "/behance/covers/147306123.jpg",
+      "tools": [
+        "Digital Illustration",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/147306123/Drawing",
+      "description": "Professional character & art executed for Drawing, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Character",
+      "images": [
+        "/behance/covers/147306123.jpg"
+      ]
+    },
+    {
+      "id": "proj-143401751",
+      "title": "Frame",
+      "category": "posters",
+      "categoryLabel": "Poster Design",
+      "client": "Frame Client Project",
+      "year": "2022",
+      "image": "/behance/covers/143401751.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/143401751/Frame",
+      "description": "Professional poster design executed for Frame, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Poster",
+      "images": [
+        "/behance/covers/143401751.jpg"
+      ]
+    },
+    {
+      "id": "proj-142547977",
+      "title": "Package Design",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Package Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142547977.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142547977/Package-Design",
+      "description": "Professional packaging & print executed for Package Design, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/142547977.jpg"
+      ]
+    },
+    {
+      "id": "proj-142547763",
+      "title": "Paper Bag",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Paper Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142547763.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142547763/papper-bag",
+      "description": "Professional packaging & print executed for Paper Bag, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/142547763.jpg"
+      ]
+    },
+    {
+      "id": "alovera-gel-packaging",
+      "title": "Pure Organic Aloe Vera Gel Dieline",
+      "category": "packaging",
+      "categoryLabel": "Cosmetics & Skincare",
+      "client": "Herbal Essence Care",
+      "year": "2022",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "description": "Refreshing skincare packaging design celebrating 100% natural aloe vera extracts with clean minimalist botanical illustrations.",
+      "featured": false,
+      "tag": "Skincare Packaging",
+      "image": "/behance/21-alovera-gel.jpg",
+      "behanceUrl": "https://www.behance.net/gallery/142547615/Alovera-Gel",
+      "images": [
+        "/behance/21-alovera-gel.jpg"
+      ]
+    },
+    {
+      "id": "nuts-package",
+      "title": "Premium Roasted Nuts Pouch Packaging",
+      "category": "packaging",
+      "categoryLabel": "Food & Beverage Packaging",
+      "client": "Royal Harvest Nuts",
+      "year": "2022",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "description": "Eye-catching snack pouch packaging with vibrant ingredient window, bold nutritional hierarchy, and modern metallic accents.",
+      "featured": false,
+      "tag": "Food Packaging",
+      "image": "/behance/19-nuts-package.jpg",
+      "behanceUrl": "https://www.behance.net/gallery/142547145/Nuts-Package",
+      "images": [
+        "/behance/19-nuts-package.jpg"
+      ]
+    },
+    {
+      "id": "soap-cover-packaging",
+      "title": "Handcrafted Herbal Soap Packaging",
+      "category": "packaging",
+      "categoryLabel": "Artisan Packaging",
+      "client": "Naturals Soap Works",
+      "year": "2022",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "description": "Eco-friendly kraft paper soap wrap design highlighting pure coconut and herbal ingredients with rustic line art.",
+      "featured": false,
+      "tag": "Eco Packaging",
+      "image": "/behance/24-soap-cover.jpg",
+      "behanceUrl": "https://www.behance.net/gallery/142546463/Soap-Cover",
+      "images": [
+        "/behance/24-soap-cover.jpg"
+      ]
+    },
+    {
+      "id": "proj-142216307",
+      "title": "Azure Avenue Logo",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Azure Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142216307.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142216307/Azure-Avenue-Logo",
+      "description": "Professional brand identity executed for Azure Avenue Logo, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/covers/142216307.jpg"
+      ]
+    },
+    {
+      "id": "mokachi-cafe",
+      "title": "MOKACHI Cafe Brand & Packaging",
+      "category": "branding",
+      "categoryLabel": "Hospitality & Cafe Identity",
+      "client": "MOKACHI Cafe",
+      "year": "2022",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "description": "Artisanal coffee house identity featuring warm coffee cup line art and coffee bean geometry for takeaway cups and menus.",
+      "featured": false,
+      "tag": "Cafe Branding",
+      "image": "/behance/18-mokachi-cafe.jpg",
+      "behanceUrl": "https://www.behance.net/gallery/142126649/MOKACHI-CAFE",
+      "images": [
+        "/behance/18-mokachi-cafe.jpg"
+      ]
+    },
+    {
+      "id": "proj-142126501",
+      "title": "Logo For Jaza Creatives",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Logo Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142126501.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142126501/Logo-for-JAZA-CREATIVES",
+      "description": "Professional brand identity executed for Logo For Jaza Creatives, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/covers/142126501.jpg"
+      ]
+    },
+    {
+      "id": "proj-142546713",
+      "title": "Label",
+      "category": "posters",
+      "categoryLabel": "Poster Design",
+      "client": "Label Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142546713.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142546713/Lable",
+      "description": "Professional poster design executed for Label, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Poster",
+      "images": [
+        "/behance/covers/142546713.jpg"
+      ]
+    },
+    {
+      "id": "proj-142126335",
+      "title": "Logo For Markaz Awis",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Logo Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142126335.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142126335/Logo-for-Markaz-Awis",
+      "description": "Professional brand identity executed for Logo For Markaz Awis, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/covers/142126335.jpg"
+      ]
+    },
+    {
+      "id": "proj-142126245",
+      "title": "Logo For Muziris",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Logo Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142126245.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142126245/Logo-For-Muziris",
+      "description": "Professional brand identity executed for Logo For Muziris, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/covers/142126245.jpg"
+      ]
+    },
+    {
+      "id": "proj-142130245",
+      "title": "Instagram Carousel",
+      "category": "social",
+      "categoryLabel": "Social Media & Motion",
+      "client": "Instagram Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142130245.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142130245/Instagram-Carousel",
+      "description": "Professional social media & motion executed for Instagram Carousel, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Social",
+      "images": [
+        "/behance/covers/142130245.jpg"
+      ]
+    },
+    {
+      "id": "proj-142129953",
+      "title": "Product Package Design For Jaz Food",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Product Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142129953.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142129953/Product-Package-Design-For-Jaz-Food",
+      "description": "Professional packaging & print executed for Product Package Design For Jaz Food, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/142129953.jpg"
+      ]
+    },
+    {
+      "id": "proj-142141255",
+      "title": "Cafe Poster",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Cafe Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142141255.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142141255/CAFE-Poster",
+      "description": "Professional posters & campaigns executed for Cafe Poster, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/covers/142141255.jpg"
+      ]
+    },
+    {
+      "id": "proj-142125955",
+      "title": "Totem Stand",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Totem Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142125955.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142125955/Totem-Stand",
+      "description": "Professional posters & campaigns executed for Totem Stand, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/covers/142125955.jpg"
+      ]
+    },
+    {
+      "id": "proj-142125925",
+      "title": "Led Wall",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Led Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142125925.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142125925/LED-Wall",
+      "description": "Professional posters & campaigns executed for Led Wall, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/covers/142125925.jpg"
+      ]
+    },
+    {
+      "id": "proj-142125887",
+      "title": "Street Wall",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Street Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142125887.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142125887/Street-Wall",
+      "description": "Professional posters & campaigns executed for Street Wall, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/covers/142125887.jpg"
+      ]
+    },
+    {
+      "id": "proj-142125789",
+      "title": "Calendar",
+      "category": "posters",
+      "categoryLabel": "Poster Design",
+      "client": "Calendar Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142125789.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142125789/Calendar",
+      "description": "Professional poster design executed for Calendar, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Poster",
+      "images": [
+        "/behance/covers/142125789.jpg"
+      ]
+    },
+    {
+      "id": "proj-142125683",
+      "title": "Poster",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Poster Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142125683.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142125683/Poster",
+      "description": "Professional posters & campaigns executed for Poster, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/covers/142125683.jpg"
+      ]
+    },
+    {
+      "id": "proj-142548673",
+      "title": "Brochure",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Brochure Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142548673.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142548673/Broucher",
+      "description": "Professional packaging & print executed for Brochure, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/142548673.jpg"
+      ]
+    },
+    {
+      "id": "proj-136623895",
+      "title": "Brochure",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Brochure Client Project",
+      "year": "2022",
+      "image": "/behance/covers/136623895.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/136623895/Brochure",
+      "description": "Professional packaging & print executed for Brochure, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/136623895.jpg"
+      ]
+    },
+    {
+      "id": "proj-136623867",
+      "title": "Brochure",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Brochure Client Project",
+      "year": "2022",
+      "image": "/behance/covers/136623867.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/136623867/Broucher",
+      "description": "Professional packaging & print executed for Brochure, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/136623867.jpg"
+      ]
+    },
+    {
+      "id": "proj-142140163",
+      "title": "Brochure For Itti",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Brochure Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142140163.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142140163/Broucher-For-ITTI",
+      "description": "Professional packaging & print executed for Brochure For Itti, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/142140163.jpg"
+      ]
+    },
+    {
+      "id": "proj-136624163",
+      "title": "Newspaper Add",
+      "category": "social",
+      "categoryLabel": "Social Media & Motion",
+      "client": "Newspaper Client Project",
+      "year": "2022",
+      "image": "/behance/covers/136624163.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/136624163/Newspaper-add",
+      "description": "Professional social media & motion executed for Newspaper Add, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Social",
+      "images": [
+        "/behance/covers/136624163.jpg"
+      ]
+    },
+    {
+      "id": "tissue-box-packaging",
+      "title": "Floral Tissue Box Packaging Collection",
+      "category": "packaging",
+      "categoryLabel": "Consumer Goods Packaging",
+      "client": "SoftCare Paper Products",
+      "year": "2022",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "description": "Botanical home decor tissue box dieline packaging featuring soothing pastel gradients and delicate floral motifs.",
+      "featured": false,
+      "tag": "Dieline Packaging",
+      "image": "/behance/20-tissue-box.jpg",
+      "behanceUrl": "https://www.behance.net/gallery/142140735/TISSUE-BOX",
+      "images": [
+        "/behance/20-tissue-box.jpg"
+      ]
+    },
+    {
+      "id": "proj-142547289",
+      "title": "Virgin Coconut Oil",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Virgin Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142547289.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142547289/Virgin-Coconut-Oil",
+      "description": "Professional packaging & print executed for Virgin Coconut Oil, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/142547289.jpg"
+      ]
+    },
+    {
+      "id": "proj-142547221",
+      "title": "Poster",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Poster Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142547221.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142547221/Poster",
+      "description": "Professional posters & campaigns executed for Poster, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/covers/142547221.jpg"
+      ]
+    },
+    {
+      "id": "proj-142125545",
+      "title": "Drawing",
+      "category": "drawings",
+      "categoryLabel": "Character & Art",
+      "client": "Drawing Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142125545.jpg",
+      "tools": [
+        "Digital Illustration",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142125545/Drawing",
+      "description": "Professional character & art executed for Drawing, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Character",
+      "images": [
+        "/behance/covers/142125545.jpg"
+      ]
+    },
+    {
+      "id": "proj-142125377",
+      "title": "Drawing",
+      "category": "drawings",
+      "categoryLabel": "Character & Art",
+      "client": "Drawing Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142125377.jpg",
+      "tools": [
+        "Digital Illustration",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142125377/Drawing",
+      "description": "Professional character & art executed for Drawing, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Character",
+      "images": [
+        "/behance/covers/142125377.jpg"
+      ]
+    },
+    {
+      "id": "proj-142125453",
+      "title": "Pickle Advertising",
+      "category": "social",
+      "categoryLabel": "Social Media & Motion",
+      "client": "Pickle Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142125453.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142125453/Pickle-Advertising",
+      "description": "Professional social media & motion executed for Pickle Advertising, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Social",
+      "images": [
+        "/behance/covers/142125453.jpg"
+      ]
+    },
+    {
+      "id": "proj-142125599",
+      "title": "Drawing",
+      "category": "drawings",
+      "categoryLabel": "Character & Art",
+      "client": "Drawing Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142125599.jpg",
+      "tools": [
+        "Digital Illustration",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142125599/Drawing",
+      "description": "Professional character & art executed for Drawing, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Character",
+      "images": [
+        "/behance/covers/142125599.jpg"
+      ]
+    },
+    {
+      "id": "proj-136753491",
+      "title": "Character Drawing",
+      "category": "drawings",
+      "categoryLabel": "Character & Art",
+      "client": "Character Client Project",
+      "year": "2022",
+      "image": "/behance/covers/136753491.jpg",
+      "tools": [
+        "Digital Illustration",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/136753491/Carector-Drawing",
+      "description": "Professional character & art executed for Character Drawing, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Character",
+      "images": [
+        "/behance/covers/136753491.jpg"
+      ]
+    },
+    {
+      "id": "proj-136623773",
+      "title": "Drawing",
+      "category": "drawings",
+      "categoryLabel": "Character & Art",
+      "client": "Drawing Client Project",
+      "year": "2022",
+      "image": "/behance/covers/136623773.jpg",
+      "tools": [
+        "Digital Illustration",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/136623773/Drawing",
+      "description": "Professional character & art executed for Drawing, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Character",
+      "images": [
+        "/behance/covers/136623773.jpg"
+      ]
+    },
+    {
+      "id": "proj-155954269",
+      "title": "Drawing",
+      "category": "drawings",
+      "categoryLabel": "Character & Art",
+      "client": "Drawing Client Project",
+      "year": "2022",
+      "image": "/behance/covers/155954269.jpg",
+      "tools": [
+        "Digital Illustration",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/155954269/Drawing",
+      "description": "Professional character & art executed for Drawing, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Character",
+      "images": [
+        "/behance/covers/155954269.jpg"
+      ]
+    },
+    {
+      "id": "proj-155930781",
+      "title": "Drawing",
+      "category": "drawings",
+      "categoryLabel": "Character & Art",
+      "client": "Drawing Client Project",
+      "year": "2022",
+      "image": "/behance/covers/155930781.jpg",
+      "tools": [
+        "Digital Illustration",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/155930781/Drawing",
+      "description": "Professional character & art executed for Drawing, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Character",
+      "images": [
+        "/behance/covers/155930781.jpg"
+      ]
+    },
+    {
+      "id": "proj-147305389",
+      "title": "Character Drawing",
+      "category": "drawings",
+      "categoryLabel": "Character & Art",
+      "client": "Character Client Project",
+      "year": "2022",
+      "image": "/behance/covers/147305389.jpg",
+      "tools": [
+        "Digital Illustration",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/147305389/Carecter-Drawing",
+      "description": "Professional character & art executed for Character Drawing, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Character",
+      "images": [
+        "/behance/covers/147305389.jpg"
+      ]
+    },
+    {
+      "id": "proj-142125857",
+      "title": "Logo",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Logo Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142125857.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142125857/Logo",
+      "description": "Professional brand identity executed for Logo, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/covers/142125857.jpg"
+      ]
+    },
+    {
+      "id": "proj-142547543",
+      "title": "Medicine Chart Board",
+      "category": "posters",
+      "categoryLabel": "Posters & Campaigns",
+      "client": "Medicine Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142547543.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142547543/Medicin-Chart-Board",
+      "description": "Professional posters & campaigns executed for Medicine Chart Board, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Posters",
+      "images": [
+        "/behance/covers/142547543.jpg"
+      ]
+    },
+    {
+      "id": "proj-116429047",
+      "title": "Medicine Bottle",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Medicine Client Project",
+      "year": "2020–2021",
+      "image": "/behance/covers/116429047.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/116429047/Medicine-Bottle",
+      "description": "Professional packaging & print executed for Medicine Bottle, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/116429047.jpg"
+      ]
+    },
+    {
+      "id": "proj-138055489",
+      "title": "Portfolio",
+      "category": "branding",
+      "categoryLabel": "Brand Identity",
+      "client": "Portfolio Client Project",
+      "year": "2022",
+      "image": "/behance/covers/138055489.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/138055489/Portfolio",
+      "description": "Professional brand identity executed for Portfolio, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Brand",
+      "images": [
+        "/behance/covers/138055489.jpg"
+      ]
+    },
+    {
+      "id": "proj-83542023",
+      "title": "Kick Manipulation",
+      "category": "posters",
+      "categoryLabel": "Poster Design",
+      "client": "Kick Client Project",
+      "year": "2020–2021",
+      "image": "/behance/covers/83542023.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/83542023/kick-manipulation",
+      "description": "Professional poster design executed for Kick Manipulation, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Poster",
+      "images": [
+        "/behance/covers/83542023.jpg"
+      ]
+    },
+    {
+      "id": "proj-83541633",
+      "title": "Eid Mubarak",
+      "category": "posters",
+      "categoryLabel": "Poster Design",
+      "client": "Eid Client Project",
+      "year": "2020–2021",
+      "image": "/behance/covers/83541633.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/83541633/Eid-mubarak",
+      "description": "Professional poster design executed for Eid Mubarak, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Poster",
+      "images": [
+        "/behance/covers/83541633.jpg"
+      ]
+    },
+    {
+      "id": "proj-142547373",
+      "title": "Olive Oil",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Olive Client Project",
+      "year": "2022",
+      "image": "/behance/covers/142547373.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/142547373/Olive-Oil",
+      "description": "Professional packaging & print executed for Olive Oil, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/142547373.jpg"
+      ]
+    },
+    {
+      "id": "proj-157384671",
+      "title": "Brochure",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Brochure Client Project",
+      "year": "2022",
+      "image": "/behance/covers/157384671.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/157384671/Brochure",
+      "description": "Professional packaging & print executed for Brochure, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/157384671.jpg"
+      ]
+    },
+    {
+      "id": "proj-157384829",
+      "title": "Business Card",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Business Client Project",
+      "year": "2022",
+      "image": "/behance/covers/157384829.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/157384829/Business-Card",
+      "description": "Professional packaging & print executed for Business Card, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/157384829.jpg"
+      ]
+    },
+    {
+      "id": "proj-155930717",
+      "title": "After Effects",
+      "category": "social",
+      "categoryLabel": "Social Media & Motion",
+      "client": "After Client Project",
+      "year": "2022",
+      "image": "/behance/covers/155930717.jpg",
+      "tools": [
+        "After Effects",
+        "Premiere Pro"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/155930717/After-effects",
+      "description": "Professional social media & motion executed for After Effects, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Social",
+      "images": [
+        "/behance/covers/155930717.jpg"
+      ]
+    },
+    {
+      "id": "proj-155930535",
+      "title": "Calendar",
+      "category": "posters",
+      "categoryLabel": "Poster Design",
+      "client": "Calendar Client Project",
+      "year": "2022",
+      "image": "/behance/covers/155930535.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/155930535/Calendar",
+      "description": "Professional poster design executed for Calendar, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Poster",
+      "images": [
+        "/behance/covers/155930535.jpg"
+      ]
+    },
+    {
+      "id": "proj-155930471",
+      "title": "Book Cover Design",
+      "category": "packaging",
+      "categoryLabel": "Packaging & Print",
+      "client": "Book Client Project",
+      "year": "2022",
+      "image": "/behance/covers/155930471.jpg",
+      "tools": [
+        "Adobe Illustrator",
+        "InDesign"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/155930471/Book-Cover-Design",
+      "description": "Professional packaging & print executed for Book Cover Design, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Packaging",
+      "images": [
+        "/behance/covers/155930471.jpg"
+      ]
+    },
+    {
+      "id": "proj-147305573",
+      "title": "Character Drawing",
+      "category": "drawings",
+      "categoryLabel": "Character & Art",
+      "client": "Character Client Project",
+      "year": "2022",
+      "image": "/behance/covers/147305573.jpg",
+      "tools": [
+        "Digital Illustration",
+        "Photoshop"
+      ],
+      "behanceUrl": "https://www.behance.net/gallery/147305573/Carector-Drawing",
+      "description": "Professional character & art executed for Character Drawing, focusing on balanced typography, brand fidelity, and creative production.",
+      "featured": false,
+      "tag": "Character",
+      "images": [
+        "/behance/covers/147305573.jpg"
+      ]
+    }
+  ]
+}
