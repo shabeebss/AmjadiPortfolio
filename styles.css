@@ -396,7 +396,8 @@ button:hover,
     gap: 1.5rem;
 }
 
-#nav-mobile a {
+#nav-mobile .mobile-nav-link,
+#nav-mobile a:not(.mobile-social-icon) {
     font-size: 1.4rem;
 }
 
@@ -2333,7 +2334,8 @@ footer {
         gap: 1.3rem;
     }
 
-    #nav-mobile a {
+    #nav-mobile .mobile-nav-link,
+    #nav-mobile a:not(.mobile-social-icon) {
         font-size: 1.55rem;
         font-weight: 500;
         color: var(--black);
@@ -2341,9 +2343,68 @@ footer {
         transition: transform 0.15s ease, color 0.15s ease;
     }
 
-    #nav-mobile a:active {
+    #nav-mobile .mobile-nav-link:active,
+    #nav-mobile a:not(.mobile-social-icon):active {
         transform: translateX(4px);
         color: var(--gold);
+    }
+
+    /* Mobile Drawer Social Links */
+    #nav-mobile .social-links,
+    #nav-mobile .mobile-social-row {
+        display: flex !important;
+        align-items: center !important;
+        gap: 0.85rem !important;
+        margin-top: 1rem !important;
+        padding: 0 !important;
+    }
+
+    #nav-mobile .social-links a,
+    #nav-mobile a.mobile-social-icon {
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        width: 44px !important;
+        height: 44px !important;
+        min-width: 44px !important;
+        max-width: 44px !important;
+        border-radius: 50% !important;
+        background: var(--white) !important;
+        outline: 1.5px solid var(--black) !important;
+        border: none !important;
+        color: var(--black) !important;
+        font-size: 1.05rem !important;
+        line-height: 1 !important;
+        box-shadow: 2.5px 2.5px 0px var(--banner-bg) !important;
+        transition: transform 0.15s ease, background-color 0.15s ease, box-shadow 0.15s ease !important;
+        text-decoration: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        box-sizing: border-box !important;
+    }
+
+    #nav-mobile .social-links a i,
+    #nav-mobile a.mobile-social-icon i {
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        font-size: 1.05rem !important;
+        line-height: 1 !important;
+        width: 1em !important;
+        height: 1em !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        color: var(--black) !important;
+    }
+
+    #nav-mobile .social-links a:hover,
+    #nav-mobile .social-links a:active,
+    #nav-mobile a.mobile-social-icon:hover,
+    #nav-mobile a.mobile-social-icon:active {
+        background: var(--green) !important;
+        transform: translate(-1.5px, -1.5px) !important;
+        box-shadow: 3.5px 3.5px 0px var(--banner-bg) !important;
+        color: var(--black) !important;
     }
 
     #welcome {

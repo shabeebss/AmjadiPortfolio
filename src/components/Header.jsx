@@ -105,10 +105,10 @@ export default function Header() {
       {/* Mobile Drawer */}
       <div id="nav-mobile" className={mobileMenuOpen ? 'nav-show' : ''}>
         <ul>
-          <li><a href="#work" onClick={closeMobile}>My work</a></li>
-          <li><a href="#bio" onClick={closeMobile}>About</a></li>
-          <li><a href="#services" onClick={closeMobile}>Services</a></li>
-          <li><a href="#experience" onClick={closeMobile}>Experience</a></li>
+          <li><a href="#work" className="mobile-nav-link" onClick={closeMobile}>My work</a></li>
+          <li><a href="#bio" className="mobile-nav-link" onClick={closeMobile}>About</a></li>
+          <li><a href="#services" className="mobile-nav-link" onClick={closeMobile}>Services</a></li>
+          <li><a href="#experience" className="mobile-nav-link" onClick={closeMobile}>Experience</a></li>
           <li>
             <button
               className="hover"
@@ -122,10 +122,19 @@ export default function Header() {
             </button>
           </li>
           <li>
-            <div className="social-links" style={{ marginTop: '1rem' }}>
-              <a href="tel:+919656161319" title="Phone"><i className="fa-solid fa-phone"></i></a>
-              <a href="https://wa.me/919656161319" target="_blank" rel="noreferrer" title="WhatsApp"><i className="fa-brands fa-whatsapp"></i></a>
-              <a href="mailto:kmspallikkunnu@gmail.com" title="Email"><i className="fa-solid fa-envelope"></i></a>
+            <div className="mobile-social-row social-links">
+              <a href="tel:+919656161319" title="Phone" className="mobile-social-icon">
+                <i className="fa-solid fa-phone"></i>
+              </a>
+              <a href="https://wa.me/919656161319" target="_blank" rel="noreferrer" title="WhatsApp" className="mobile-social-icon">
+                <i className="fa-brands fa-whatsapp"></i>
+              </a>
+              <a href="mailto:kmspallikkunnu@gmail.com" title="Email" className="mobile-social-icon">
+                <i className="fa-solid fa-envelope"></i>
+              </a>
+              <a href="https://www.behance.net/sabithamjadi" target="_blank" rel="noreferrer" title="Behance" className="mobile-social-icon">
+                <i className="fa-brands fa-behance"></i>
+              </a>
             </div>
           </li>
         </ul>
