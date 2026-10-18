@@ -23,9 +23,13 @@ export default function Work({ data }) {
     setActiveSlide(0);
   };
 
-  // Keyboard navigation for multi-slide modal (ArrowLeft, ArrowRight, Escape)
+  // Keyboard navigation and body scroll lock for multi-slide modal
   useEffect(() => {
     if (!selectedProject) return;
+
+    // Lock background scrolling on mobile & desktop
+    const originalOverflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
 
     const slides = selectedProject.images && selectedProject.images.length > 0
       ? selectedProject.images
@@ -42,7 +46,10 @@ export default function Work({ data }) {
     };
 
     window.addEventListener('keydown', handleKeyDown);
-    return () => window.removeEventListener('keydown', handleKeyDown);
+    return () => {
+      window.removeEventListener('keydown', handleKeyDown);
+      document.body.style.overflow = originalOverflow;
+    };
   }, [selectedProject]);
 
   useEffect(() => {

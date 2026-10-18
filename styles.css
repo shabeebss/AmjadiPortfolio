@@ -2251,15 +2251,40 @@ footer {
     }
 
     .work-hover-overlay {
-        display: none !important;
-        opacity: 0 !important;
-        visibility: hidden !important;
-        pointer-events: none !important;
+        position: absolute !important;
+        inset: auto 10px 10px auto !important;
+        width: auto !important;
+        height: auto !important;
+        background: transparent !important;
+        display: flex !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+        z-index: 5 !important;
+    }
+
+    .btn-quick-view {
+        background: rgba(253, 253, 245, 0.94) !important;
+        backdrop-filter: blur(4px) !important;
+        -webkit-backdrop-filter: blur(4px) !important;
+        outline: 1px solid var(--black) !important;
+        color: var(--black) !important;
+        padding: 0.26rem 0.65rem !important;
+        border-radius: 20px !important;
+        font-size: 0.68rem !important;
+        font-weight: 600 !important;
+        box-shadow: 2px 2px 0px var(--banner-bg) !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        gap: 5px !important;
+        transform: none !important;
+        letter-spacing: 0.02rem !important;
+        cursor: pointer !important;
     }
 
     .work-card-media:hover {
         transform: none !important;
-        box-shadow: 3.5px 3.5px 0px var(--banner-bg) !important;
+        box-shadow: 3px 3px 0px var(--banner-bg) !important;
     }
 
     .work-card-media:hover .work-thumb-img {
@@ -2584,58 +2609,175 @@ footer {
 
     /* Quick View Modal */
     .modal-backdrop {
-        padding: 0.75rem;
+        position: fixed !important;
+        inset: 0 !important;
+        padding: 1.25rem 0.85rem !important;
+        background: rgba(20, 22, 18, 0.82) !important;
+        backdrop-filter: blur(8px) !important;
+        -webkit-backdrop-filter: blur(8px) !important;
+        display: flex !important;
+        align-items: flex-start !important;
+        justify-content: center !important;
+        overflow-y: auto !important;
+        -webkit-overflow-scrolling: touch !important;
+        z-index: 10000 !important;
     }
 
     .modal-card {
-        padding: 1.3rem;
-        border-radius: 14px;
-        box-shadow: 6px 6px 0px var(--banner-bg);
-        max-height: 92vh;
+        margin: auto 0 !important;
+        width: 100% !important;
+        max-width: 580px !important;
+        padding: 1.25rem 1.1rem !important;
+        border-radius: 16px !important;
+        border: 2px solid var(--black) !important;
+        box-shadow: 4px 4px 0px var(--banner-bg) !important;
+        position: relative !important;
+        background: var(--white) !important;
+        max-height: none !important;
+        overflow: visible !important;
+        box-sizing: border-box !important;
     }
 
     .modal-close {
-        top: 0.65rem;
-        right: 0.65rem;
-        width: 36px;
-        height: 36px;
-        font-size: 1rem;
+        top: 0.65rem !important;
+        right: 0.65rem !important;
+        width: 36px !important;
+        height: 36px !important;
+        font-size: 1.05rem !important;
+        background: var(--white) !important;
+        border: 1.5px solid var(--black) !important;
+        color: var(--black) !important;
+        box-shadow: 2px 2px 0px var(--banner-bg) !important;
+        z-index: 40 !important;
+        cursor: pointer !important;
     }
 
     .modal-grid {
-        grid-template-columns: 1fr;
-        grid-gap: 1.2rem;
+        grid-template-columns: 1fr !important;
+        grid-gap: 1.2rem !important;
+        width: 100% !important;
+    }
+
+    .modal-carousel-stage {
+        width: 100% !important;
+        min-height: 230px !important;
+        max-height: 48vh !important;
+        aspect-ratio: 16 / 11 !important;
+        border-radius: 10px !important;
+        border: 1.5px solid var(--black) !important;
+        background: #f7f6ed !important;
+        box-shadow: 3px 3px 0px var(--banner-bg) !important;
+        position: relative !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        overflow: hidden !important;
+    }
+
+    .modal-img {
+        max-width: 100% !important;
+        max-height: 100% !important;
+        width: auto !important;
+        height: auto !important;
+        object-fit: contain !important;
+        display: block !important;
+    }
+
+    .modal-slide-counter {
+        top: 8px !important;
+        left: 8px !important;
+        font-size: 0.68rem !important;
+        padding: 0.22rem 0.55rem !important;
+        background: rgba(253, 253, 245, 0.95) !important;
+        border: 1px solid var(--black) !important;
+        box-shadow: 2px 2px 0px var(--banner-bg) !important;
+        border-radius: 20px !important;
+        z-index: 10 !important;
+    }
+
+    .modal-nav-arrow {
+        width: 34px !important;
+        height: 34px !important;
+        font-size: 0.8rem !important;
+        background: var(--white) !important;
+        border: 1.5px solid var(--black) !important;
+        box-shadow: 2px 2px 0px var(--banner-bg) !important;
+        z-index: 15 !important;
+    }
+
+    .modal-nav-prev {
+        left: 8px !important;
+    }
+
+    .modal-nav-next {
+        right: 8px !important;
+    }
+
+    .modal-thumbnail-strip {
+        display: flex !important;
+        gap: 6px !important;
+        padding: 6px 2px !important;
+        margin-top: 0.65rem !important;
+        width: 100% !important;
+        overflow-x: auto !important;
+        -webkit-overflow-scrolling: touch !important;
+    }
+
+    .modal-thumb-btn {
+        flex: 0 0 52px !important;
+        height: 38px !important;
+        border-radius: 6px !important;
+        border: 1.2px solid var(--black) !important;
+    }
+
+    .modal-info {
+        width: 100% !important;
+        text-align: left !important;
     }
 
     .modal-info h2 {
-        font-size: 1.35rem;
-        margin-bottom: 0.25rem;
+        font-size: 1.28rem !important;
+        line-height: 1.25 !important;
+        margin-bottom: 0.25rem !important;
     }
 
     .modal-client {
-        font-size: 0.85rem;
-        margin-bottom: 0.75rem;
+        font-size: 0.82rem !important;
+        margin-bottom: 0.65rem !important;
     }
 
     .modal-desc {
-        font-size: 0.88rem;
-        line-height: 1.55;
-        margin-bottom: 1rem;
+        font-size: 0.86rem !important;
+        line-height: 1.55 !important;
+        margin-bottom: 0.85rem !important;
+    }
+
+    .modal-tools {
+        margin-bottom: 1rem !important;
+        padding: 0.7rem 0.85rem !important;
+        border-radius: 8px !important;
     }
 
     .modal-actions {
-        flex-direction: column;
-        gap: 0.6rem;
-        width: 100%;
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 0.55rem !important;
+        width: 100% !important;
+        margin-top: 0.4rem !important;
     }
 
     .btn-primary-modal,
     .btn-whatsapp-modal,
     .btn-secondary-modal {
-        width: 100%;
-        justify-content: center;
-        padding: 0.68rem 1rem;
-        font-size: 0.88rem;
+        width: 100% !important;
+        justify-content: center !important;
+        padding: 0.72rem 1.2rem !important;
+        font-size: 0.88rem !important;
+        border-radius: 25px !important;
+        box-sizing: border-box !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        gap: 8px !important;
     }
 
     /* Stats row */
@@ -3060,65 +3202,84 @@ footer {
     }
 
     /* Quick View Modal on Phones */
+    .modal-backdrop {
+        padding: 0.85rem 0.65rem !important;
+        align-items: flex-start !important;
+        overflow-y: auto !important;
+        -webkit-overflow-scrolling: touch !important;
+    }
+
     .modal-card {
-        padding: 1.15rem 1rem;
-        border-radius: 14px;
-        max-height: 92vh;
+        padding: 1.1rem 0.95rem !important;
+        border-radius: 14px !important;
+        max-height: none !important;
+        margin: 0.8rem auto !important;
+        box-shadow: 3.5px 3.5px 0px var(--banner-bg) !important;
+    }
+
+    .modal-close {
+        top: 0.5rem !important;
+        right: 0.5rem !important;
+        width: 34px !important;
+        height: 34px !important;
+        font-size: 0.95rem !important;
     }
 
     .modal-carousel-stage {
-        aspect-ratio: 16 / 11;
-        border-radius: 9px;
+        aspect-ratio: 16 / 11 !important;
+        min-height: 210px !important;
+        max-height: 46vh !important;
+        border-radius: 9px !important;
     }
 
     .modal-slide-counter {
-        top: 6px;
-        left: 6px;
-        font-size: 0.66rem;
-        padding: 0.2rem 0.5rem;
+        top: 6px !important;
+        left: 6px !important;
+        font-size: 0.65rem !important;
+        padding: 0.18rem 0.5rem !important;
     }
 
     .modal-nav-arrow {
-        width: 30px;
-        height: 30px;
-        font-size: 0.75rem;
+        width: 32px !important;
+        height: 32px !important;
+        font-size: 0.75rem !important;
     }
 
     .modal-thumbnail-strip {
-        gap: 5px;
-        padding: 5px 0 6px;
+        gap: 5px !important;
+        padding: 5px 0 6px !important;
     }
 
     .modal-thumb-btn {
-        flex: 0 0 50px;
-        height: 36px;
-        border-radius: 5px;
+        flex: 0 0 50px !important;
+        height: 36px !important;
+        border-radius: 5px !important;
     }
 
     .modal-info h2 {
-        font-size: 1.22rem;
-        line-height: 1.25;
-        margin-bottom: 0.2rem;
+        font-size: 1.2rem !important;
+        line-height: 1.25 !important;
+        margin-bottom: 0.2rem !important;
     }
 
     .modal-client {
-        font-size: 0.8rem;
-        margin-bottom: 0.6rem;
+        font-size: 0.8rem !important;
+        margin-bottom: 0.55rem !important;
     }
 
     .modal-desc {
-        font-size: 0.84rem;
-        line-height: 1.5;
-        margin-bottom: 0.8rem;
+        font-size: 0.84rem !important;
+        line-height: 1.5 !important;
+        margin-bottom: 0.75rem !important;
     }
 
     .tools-label {
-        font-size: 0.74rem;
+        font-size: 0.74rem !important;
     }
 
     .tool-pill {
-        font-size: 0.7rem;
-        padding: 0.18rem 0.5rem;
+        font-size: 0.7rem !important;
+        padding: 0.18rem 0.5rem !important;
     }
 
     /* Services & Experience on Phones */
